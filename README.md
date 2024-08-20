@@ -32,4 +32,5 @@ This report pulls data from the following sources:
 - **Leave Management System**: Data on employee leave requests and approvals.
 
 ## Dashboard Preview
+![dashboard](https://github.com/user-attachments/assets/5b1557dd-2a31-456f-9232-2146e63e12ba)
 
